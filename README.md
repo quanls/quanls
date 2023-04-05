@@ -11,7 +11,7 @@ Thanks for stopping by - feel free to check out my projects and don't hesitate t
 [![Linkedin Badge](https://img.shields.io/badge/-quanls-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quanls/)](https://www.linkedin.com/in/quanls/)
 [![Instagram Badge](https://img.shields.io/badge/-quanls2509-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/quanls2509/)](https://instagram.com/quanls2509)
 [![Skype Badge](https://img.shields.io/badge/-quanls2509-blue?style=flat-square&logo=skype&logoColor=white&link=https://join.skype.com/invite/pCfEtg2wSl3F)](https://join.skype.com/invite/pCfEtg2wSl3F)
-[![Telegram Badge](https://img.shields.io/badge/-quanls-blue?style=flat-square&logo=skype&logoColor=white&link=https://t.me/quanls)](https://t.me/quanls)
+[![Telegram Badge](https://img.shields.io/badge/-quanls-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/quanls)](https://t.me/quanls)
 [![Gmail Badge](https://img.shields.io/badge/-quanls2059@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quanls2059@gmail.com)](mailto:quanls2059@gmail.com)
 <!--[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)-->
 <!--[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)-->
