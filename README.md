@@ -48,11 +48,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/YJ85eVpdZDy7e/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/quanls/quanls/blob/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quanls/quanls/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quanls/quanls/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/quanls/quanls/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ###
 
